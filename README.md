@@ -1,1 +1,1 @@
-# Laravel_blog
+# PHP and Laravel project
